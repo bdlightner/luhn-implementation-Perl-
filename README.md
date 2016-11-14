@@ -2,7 +2,7 @@
 
 Luhn algorithm (credit card check-digit) implemented in Perl
 
-Sample Perl function to check a numeric character string of any length with Luhn check-digit at end of string plus sample Perl function to calculate check-digit character for a given character string. The sample "main" program accepts one or more number strings on the command line.
+Sample Perl function to check a numeric character string of any length with Luhn check-digit at end of string plus sample Perl function to calculate check-digit character for a given character string. The sample "main" program accepts one or more number strings on the command line.*
 
 Written to be compatible with either Perl 4 or Perl 5.
 
@@ -12,3 +12,4 @@ Test credit card account numbers can be found here: https://www.paypalobjects.co
 
 Bruce D. Lightner, La Jolla, California, USA, lightner@lightner.net, http://www.lightner.net/bruce/
 
+*_Perl is designed to give you several ways to do anything, so consider picking the most readable one. -Larry Wall_
